@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rushabh Nalawade @rush3010
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis using Python, R, SAS and Mongodb
+- 🌱 I have being learning Data Analysis using Python, R, SAS and Mongodb.
 - 💞️ I’m looking to collaborate on Python 
 - 📫 How to reach me nalawaderishabh@gmail.com
 
