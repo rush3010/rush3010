@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushabh Nalawade @rush3010
-- 👀 I’m Certified Data Analyst
+- 👀 I’m certified Data Analyst and trained in Data Science
 - 🌱 I am trained in Data Analysis and Data Science using Python, NLP Techniques, Statistics, Machine Learning, SQL, Excel, PowerBI and Tableau and Data Scraping.
 - 💞️ I’m looking to collaborate for Data Science and NLP Projects.
 - 📫 How to reach me nalawaderishabh@gmail.com
