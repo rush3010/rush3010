@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rushabh Nalawade @rush3010
 - 👀 I’m Certified Data Analyst
-- 🌱 I am trained in Data Analysis using Python, SQL, Excel, PowerBI and Tableau and Data Scraping.
-- 💞️ I’m looking to collaborate on Python & SQL
+- 🌱 I am trained in Data Analysis and Data Science using Python, NLP Techniques, Statistics, Machine Learning, SQL, Excel, PowerBI and Tableau and Data Scraping.
+- 💞️ I’m looking to collaborate for Data Science and NLP Projects.
 - 📫 How to reach me nalawaderishabh@gmail.com
 - My linkedin profile - www.linkedin.com/in/rushabh-nalawade-bb7966192
 
