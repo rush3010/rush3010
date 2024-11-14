@@ -1,11 +1,25 @@
-- 👋 Hi, I’m Rushabh Nalawade @rush3010
-- 👀 I’m certified Data Analyst and trained in Data Science
-- 🌱 My expertise lies in Data Analysis and Data Science using Python, NLP Techniques, Statistics, Machine Learning, SQL, Excel, PowerBI and Tableau and Data Scraping.
-- 💞️ I’m looking to collaborate for Data Science and NLP Projects.
-- 📫 How to reach me nalawaderishabh@gmail.com
-- My linkedin profile - www.linkedin.com/in/rushabh-nalawade-bb7966192
+Rushabh Nalawade
 
-<!---
-rush3010/rush3010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+
+👋 Welcome!
+
+Hi, I’m Rushabh Nalawade, AI enthusiast dedicated to uncovering valuable insights from data. I blend expertise in data analysis, machine learning, and natural language processing to create solutions that solve real-world problems. With strong skills in Python, SQL, and Power BI, I aim to develop models and visualizations that empower data-driven decision-making.
+
+🛠 Skills at a Glance
+
+Programming: Python (Pandas / Polars), SQL
+
+Data Tools: Advanced Excel, Power BI, Tableau
+
+Machine Learning & NLP: ML models, NLP, GenAI frameworks
+
+
+📬 Contact Me
+
+Email: nalawaderishabh@gmail.com
+
+LinkedIn: [Rushabh Nalawade](https://www.linkedin.com/in/rushabh-nalawade-bb7966192
+
+Website: https://rush3010.github.io/
 --->
